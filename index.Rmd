@@ -22,7 +22,7 @@ library(htmltools)
 div(
 a(
     'My Website!',
-    href = 'YSproject/index.html',
+    href = './YSproject/index.html',
     style = css(
       font_weight = 600,
       text_decoration = 'none',
